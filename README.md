@@ -1,4 +1,4 @@
-# [WIP]KubeCon-CloudNativeCon-Europe-2019
+# KubeCon-CloudNativeCon-Europe-2019
 
 ### KubeCon-CloudNativeCon-Europe-2019's slides
 
@@ -59,6 +59,7 @@
 1. [deep-dive-long-term-support-wg-tim-pepper-vmware.pdf](./deep-dive-long-term-support-wg-tim-pepper-vmware.pdf)
 1. [deep-dive-nats-waldemar-quevedo-synadia-communications-inc.pdf](./deep-dive-nats-waldemar-quevedo-synadia-communications-inc.pdf)
 1. [deep-dive-network-service-mesh-nsm-nikolay-nikolaev-vmware-frederick-kautz-docai.pdf](./deep-dive-network-service-mesh-nsm-nikolay-nikolaev-vmware-frederick-kautz-docai.pdf)
+1. [deep-dive-network-sig-tim-hockin-google.pdf](./deep-dive-network-sig-tim-hockin-google.pdf)
 1. [deep-dive-open-policy-agent-torin-sandall-tim-hinrichs-styra.pdf](./deep-dive-open-policy-agent-torin-sandall-tim-hinrichs-styra.pdf)
 1. [deep-dive-rook-jared-watts-bassam-tabbara-upbound.pdf](./deep-dive-rook-jared-watts-bassam-tabbara-upbound.pdf)
 1. [deep-dive-scheduling-sig-babak-salamat-google.pdf](./deep-dive-scheduling-sig-babak-salamat-google.pdf)
